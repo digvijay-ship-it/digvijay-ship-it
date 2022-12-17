@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @digvijay-ship-it
+- 👋 Hi, I’m Digvijay singh
 - 👀 I’m interested in Creating New things And impementing ideas and learning 
 - 🌱 I’m currently learning Dot net core
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project that can push my limits help me to grasp upon knowledge in my domian
 - 📫 How to reach me dssodha1234@gmail.com
 
 <!---
